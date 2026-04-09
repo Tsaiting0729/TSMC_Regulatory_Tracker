@@ -1,1 +1,0 @@
-# TSMC_Regulatory_Tracker
